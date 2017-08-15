@@ -1,0 +1,3 @@
+[template]
+src = "postgresql.conf.tmpl"
+dest = "/postgresql.conf"
